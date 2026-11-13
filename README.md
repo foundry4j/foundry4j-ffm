@@ -31,10 +31,6 @@ for Java 27, built on top of `java.lang.foreign`.
   by an Arena (no `Unsafe`), and copies between segments and heap / direct
   `ByteBuffer`s with zero extra copies where possible.
 
-## Requirements
-
-- JDK 27 or later
-
 ## Installation
 
 Gradle (Kotlin DSL):
